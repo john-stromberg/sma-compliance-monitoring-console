@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/sma-compliance-monitoring-console](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/sma-compliance-monitoring-console).
+> This repository is retained as a historical snapshot.
+
+---
+
 # sma-compliance-monitoring-console
 
 Track: **SMA Portfolio Management**
